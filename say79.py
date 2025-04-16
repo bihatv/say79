@@ -15,7 +15,7 @@ bot = telebot.TeleBot(API_TOKEN)
 NHOM_CANTHAMGIA = ['@hupcodenhacai1','@cheoreflink','@kenhphimviet69','@khuyenmaiapp','@Sanh_Casino_Game','@sanappfrie','@khuyenmaiazz','@dongxuvang']
 user_data, invited_users, captcha_codes = {}, {}, {}
 min_withdraw_amount = 5000  # Minimum withdrawal amount
-admins = [7014048216]  # Admin IDs
+admins = [6928205617]  # Admin IDs
 from PIL import Image, ImageDraw, ImageFont
 import random
 import string
